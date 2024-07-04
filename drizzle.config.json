@@ -3,6 +3,6 @@
   "schema": "./utils/schema.js",
   "out": "./drizzle",
   "dbCredentials": {
-    "url": "postgresql://magicSearch_owner:a5dYpPijAhG1@ep-holy-poetry-a1b06c65.ap-southeast-1.aws.neon.tech/test?sslmode=require"
+    "url": "use u url "
   }
 }
