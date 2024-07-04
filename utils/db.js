@@ -3,6 +3,6 @@ import {drizzle} from "drizzle-orm/neon-http";
 import * as schema from "./schema";
 
 const sql = neon(
-  "postgresql://magicSearch_owner:a5dYpPijAhG1@ep-holy-poetry-a1b06c65.ap-southeast-1.aws.neon.tech/test?sslmode=require"
+  "use u url"
 );
 export const db = drizzle(sql, {schema});
